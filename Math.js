@@ -14,3 +14,8 @@ console.log(numAleatorioEntre5y10);
 
 /*Comprueba el funcionamiento del método sign().*/
 
+console.log(Math.sign(5));   // 1
+console.log(Math.sign(-5));  // -1
+console.log(Math.sign(0));   // 0
+console.log(Math.sign("5")); // 1
+console.log(Math.sign("-5"));// -1
