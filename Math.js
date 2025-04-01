@@ -5,7 +5,7 @@ console.log(numAleatorio);
 
 /*Muestra por consola el valor de PI.*/
 
-
+console.log(Math.PI);
 
 /*Genera un número aleatorio entre 5 y 10 redondeando y muéstralo por consola. Para  este caso lo recomendado es utilizar la fórmula (Math.random()* (max-min)+min).*/
 
